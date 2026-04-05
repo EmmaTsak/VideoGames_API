@@ -1,6 +1,5 @@
 # video-games-api
 
-# video-games-api
 Video Games REST API
 
 A scalable RESTful API built with Node.js, Express, and MongoDB, designed to manage video game data with authentication, advanced querying, and clean architecture principles.
